@@ -113,3 +113,23 @@ header ul {
 hr {
     border-color: black;
 }
+    
+    .student{
+    padding-top: 50px;
+    color: rgba(245,236,239,1.00);
+    float: left;
+    margin-left: 10px;
+    padding-left: 10px;
+    }
+.student a:link {
+    color: rgba(245,236,239,1.00);
+}
+.student a:hover {
+    color: rgba(245,236,239,1.00);
+}
+.student a:active {
+    color: rgba(245,236,239,1.00);
+}
+.student a:visited {
+    color: rgba(245,236,239,1.00);
+}
